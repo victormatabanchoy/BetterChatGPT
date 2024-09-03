@@ -1,0 +1,4 @@
+npm install
+npm install @electron/asar @electron/osx-sign core-js@3.25.0
+npm audit fix
+npm run dev
